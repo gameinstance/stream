@@ -17,6 +17,7 @@ cd ~/gameinstance
 git clone https://github.com/gameinstance/basics
 cd basics
 make install
+cd ..
 
 git clone https://github.com/gameinstance/stream
 cd stream
